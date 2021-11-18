@@ -1,4 +1,5 @@
 # ***A Geek in Computerland***
+![Nerd on Computer](https://media3.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 ## Date 11/17/2021
 ### By: Cynthia Reyes
 ***
@@ -12,7 +13,7 @@
 - [x] Fork the repo.
 - [x] Clone the repo (Copy the SSH link and then input the git clone command along with that link).
 - [x] cd into the A-Geek-in-Computerland directory and type open index.html into your terminal.
-## Have fun!
+### Have fun!
 ***
 # ***Credits***
 ### **Project 1 Prompt Instructions**: [Github](https://github.com/SEI-R-11-8/u1_project_prompt/blob/main/README.md)
